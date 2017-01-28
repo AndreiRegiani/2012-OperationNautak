@@ -4,8 +4,8 @@
 Full-featured Strategy/Tower Defense game written in ActionScript 3 (Adobe AIR).
 **Source code has 12,000 lines**
 
-[Watch Video (YouTube)](https://www.youtube.com/watch?v=W6P_XtsfSA4)
-[Play Now (Flash)](http://www.playtowerdefensegames.com/games/1319/play.html)
+* [Watch Video (YouTube)](https://www.youtube.com/watch?v=W6P_XtsfSA4)
+* [Play Now (Flash)](http://www.playtowerdefensegames.com/games/1319/play.html)
 
 ![Screenshot Gameplay](https://regiani.xyz/images/projects/n-1.png)
 ![Screenshot Upgrade Menu](https://regiani.xyz/images/projects/n-2.png)
