@@ -30,8 +30,8 @@ Source code has 12,000 lines.
 ### Dependencies
 * FlashPunk (included in `src/net/flashpunk`)
 
-![Unit](https://regiani.xyz/images/projects/operation-nautak/unit.png)
-![Background](https://regiani.xyz/images/projects/operation-nautak/terrain.png)
+![Unit](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/operation-nautak/unit.png?raw=true)
+![Background](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/operation-nautak/terrain.png?raw=true)
 
 
 ### Credits
