@@ -1,5 +1,5 @@
 # Operation Nautak (2012)
-![Alien](https://regiani.xyz/images/projects/operation-nautak/alien.png)
+![Alien](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/operation-nautak/alien.png?raw=true)
 
 Full-featured Strategy/Tower Defense game written in ActionScript 3 (Adobe AIR).
 **Source code has 12,000 lines**
@@ -7,9 +7,9 @@ Full-featured Strategy/Tower Defense game written in ActionScript 3 (Adobe AIR).
 * [Watch Video (YouTube)](https://www.youtube.com/watch?v=W6P_XtsfSA4)
 * [Play Now (Flash)](http://www.playtowerdefensegames.com/games/1319/play.html)
 
-![Screenshot Gameplay](https://regiani.xyz/images/projects/n-1.png)
-![Screenshot Upgrade Menu](https://regiani.xyz/images/projects/n-2.png)
-![Screenshot Map](https://regiani.xyz/images/projects/n-3.png)
+![Screenshot Gameplay](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/n-1.png?raw=true)
+![Screenshot Upgrade Menu](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/n-2.png?raw=true)
+![Screenshot Map](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/n-3.png?raw=true)
 
 
 ### Features
