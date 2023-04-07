@@ -1,8 +1,8 @@
 # Operation Nautak (2012)
 ![Alien](https://github.com/AndreiRegiani/andreiregiani.github.io/blob/master/images/projects/operation-nautak/alien.png?raw=true)
 
-Full-featured Strategy/Tower Defense game written in ActionScript 3 (Adobe AIR).
-Source code has 12,000 lines.
+Strategy/Tower Defense game written in ActionScript 3.
+~12k LOC
 
 * [Watch Video (YouTube)](https://www.youtube.com/watch?v=W6P_XtsfSA4)
 * [Play Now (Flash)](http://www.playtowerdefensegames.com/games/1319/play.html)
@@ -36,5 +36,3 @@ Source code has 12,000 lines.
 
 ### Credits
 * **Code, Game Design, Pixel Art:** Andrei Regiani
-* **Marketing, Media:** Amples Regiani
-* **Beta Testers:** Rodrigo Delduca, Alex Regiani, Sergio Chisaka, Bruno Croci
